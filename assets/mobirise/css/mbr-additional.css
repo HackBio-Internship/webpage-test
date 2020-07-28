@@ -1269,48 +1269,59 @@ section.lazy-placeholder:after {
     font-size: 0.8rem;
   }
 }
-.cid-s5gDpMfXFf {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #ffffff;
+.cid-s62r4fYVWU {
+  padding-top: 30px;
+  padding-bottom: 0px;
+  background-color: #efefef;
 }
-.cid-s5gDpMfXFf .mbr-section-subtitle {
+.cid-s62r4fYVWU .mbr-section-subtitle {
   color: #767676;
 }
-.cid-s5gDpMfXFf .media-row {
-  display: -webkit-flex;
-  justify-content: center;
-  -webkit-justify-content: center;
-}
-.cid-s5gDpMfXFf .team-item {
-  transition: all .2s;
-  margin-bottom: 2rem;
-}
-.cid-s5gDpMfXFf .team-item .item-image img {
-  width: 100%;
-}
-.cid-s5gDpMfXFf .team-item .item-name p {
-  margin-bottom: 0;
-}
-.cid-s5gDpMfXFf .team-item .item-role p {
-  margin-bottom: 0;
-}
-.cid-s5gDpMfXFf .team-item .item-social {
-  display: -webkit-flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  -webkit-flex-wrap: wrap;
-  -webkit-justify-content: center;
-}
-.cid-s5gDpMfXFf .team-item .item-social .socicon {
-  color: #232323;
-  font-size: 17px;
-}
-.cid-s5gDpMfXFf .team-item .item-caption {
-  background: #cccccc;
-}
-.cid-s5gDpMfXFf H2 {
+.cid-s62r4fYVWU H2 {
   color: #27ae61;
+}
+.cid-s62317QIBC {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #efefef;
+}
+.cid-s62317QIBC .card-img {
+  background-color: #fff;
+}
+.cid-s62317QIBC .card {
+  align-self: stretch;
+}
+.cid-s62317QIBC .card-box {
+  padding: 2rem;
+  background-color: #ffffff;
+}
+.cid-s62317QIBC h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+}
+.cid-s62317QIBC p {
+  text-align: left;
+}
+.cid-s62317QIBC .mbr-text {
+  color: #27ae61;
+}
+.cid-s62317QIBC .card-wrapper {
+  height: 100%;
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+  transition: box-shadow 0.3s;
+}
+.cid-s62317QIBC .card-wrapper:hover {
+  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
+  transition: box-shadow 0.3s;
+}
+@media (min-width: 992px) {
+  .cid-s62317QIBC .my-col {
+    flex: 0 0 20%;
+    max-width: 20%;
+    padding: 15px;
+    -webkit-flex: 0 0 20%;
+  }
 }
 .cid-s5gRBh9CFp {
   padding-top: 45px;
