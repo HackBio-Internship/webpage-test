@@ -1,3 +1,3 @@
 ### webpage-test
-Beta version of webpage
-The official HackBio website (test mode)
+Stable version of webpage
+The official HackBio website (updated frequently mode)
